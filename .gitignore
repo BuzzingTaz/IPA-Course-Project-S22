@@ -1,0 +1,7 @@
+*.vcd
+*.out
+/trash
+/Verilog
+test.txt
+*.py
+
